@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "trecc02",
+    "packageName": "fr.sncf.cpr.trecc",
+    "packageFolder": "fr/sncf/cpr/trecc",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "ODUxNjAxNzcwMWU0N2VmYjYzOWQyYTA3ZDY5ODU2MDkzNTg4YzMxOTQ1ODhlMTA2NDQzZDA0YzlhYjkyY2U5NzRhMzI3MDYzNTM0NjBhMGRkMWExY2Y5OTBjNDYxMGQ2ODdmODUxY2QwNzUyNjQwZGNiMTczZWYyMGUwODYyNmY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "aliasoft",
+  "repository-name": "trecc-advanced"
+}
